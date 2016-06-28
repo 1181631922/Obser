@@ -1,5 +1,8 @@
 package com.fanyafeng.obser.findjob;
 
+import com.fanyafeng.obser.Observer;
+import com.fanyafeng.obser.Subject;
+
 /**
  * Created by fanyafeng on 16/6/28.
  */

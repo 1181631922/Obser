@@ -1,4 +1,4 @@
-package com.fanyafeng.obser.findjob;
+package com.fanyafeng.obser;
 
 /**
  * Created by fanyafeng on 16/6/27.
